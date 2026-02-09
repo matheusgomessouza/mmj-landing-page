@@ -24,9 +24,10 @@ export default function Testimonials() {
             </div>
             <div className="mt-4">
               <p className="text-gray-600 italic">
-                "My Money Journey completely transformed how I manage my
-                finances. The visual reports helped me identify unnecessary
-                expenses I didn't even realize I had!"
+                &rdquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque
+                reprehenderit, at obcaecati corrupti dignissimos ipsa nesciunt
+                inventore recusandae ut unde quibusdam repellat consectetur
+                totam. Ratione laudantium dolores odit aliquam accusamus?&quot;
               </p>
             </div>
             <div className="mt-4 flex">
@@ -50,9 +51,10 @@ export default function Testimonials() {
             </div>
             <div className="mt-4">
               <p className="text-gray-600 italic">
-                "As someone who hates budgeting, FinTrack made it painless. The
-                automatic categorization saves me hours each month. I've saved
-                $3,000 in 6 months!"
+                &rdquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque
+                reprehenderit, at obcaecati corrupti dignissimos ipsa nesciunt
+                inventore recusandae ut unde quibusdam repellat consectetur
+                totam. Ratione laudantium dolores odit aliquam accusamus?&quot;
               </p>
             </div>
             <div className="mt-4 flex">
@@ -78,9 +80,10 @@ export default function Testimonials() {
             </div>
             <div className="mt-4">
               <p className="text-gray-600 italic">
-                "The goal tracking feature helped me save for my dream vacation.
-                I reached my target 3 months early thanks to the smart saving
-                suggestions."
+                &rdquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque
+                reprehenderit, at obcaecati corrupti dignissimos ipsa nesciunt
+                inventore recusandae ut unde quibusdam repellat consectetur
+                totam. Ratione laudantium dolores odit aliquam accusamus?&quot;
               </p>
             </div>
             <div className="mt-4 flex">
