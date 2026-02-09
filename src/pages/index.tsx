@@ -15,7 +15,7 @@ export default function Home() {
       <Head>
         <title>My Money Journey - Your Personal Financial Journey</title>
         <meta name="description" content="Take Control of Your Financial Journey. Visualize, plan, and achieve your financial goals." />
-        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
       </Head>
       <Hero />
       <FinancialFreedom />
