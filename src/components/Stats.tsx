@@ -15,21 +15,21 @@ export default function Stats() {
         <div className="mt-10">
           <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-4">
             <div className="text-center">
-              <p className="text-5xl font-extrabold text-white">98%</p>
+              <p className="text-5xl font-extrabold text-white">TBD</p>
               <p className="mt-2 text-base text-indigo-100">
                 Customer satisfaction
               </p>
             </div>
             <div className="text-center">
-              <p className="text-5xl font-extrabold text-white">10K+</p>
+              <p className="text-5xl font-extrabold text-white">TBD</p>
               <p className="mt-2 text-base text-indigo-100">Active users</p>
             </div>
             <div className="text-center">
-              <p className="text-5xl font-extrabold text-white">$1.2B</p>
+              <p className="text-5xl font-extrabold text-white">TBD</p>
               <p className="mt-2 text-base text-indigo-100">Assets managed</p>
             </div>
             <div className="text-center">
-              <p className="text-5xl font-extrabold text-white">4.9</p>
+              <p className="text-5xl font-extrabold text-white">TBD</p>
               <p className="mt-2 text-base text-indigo-100">App Store rating</p>
             </div>
           </div>
